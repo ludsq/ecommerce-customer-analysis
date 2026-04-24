@@ -41,7 +41,7 @@ Transformar dados transacionais em insights de negócio acionáveis para respond
 ```text
 .
 ├── ecommerce_customer_analysis.ipynb
-├── gerar_relatorio_completo.py
+├── relatorio_ecommerce_completo.py
 ├── report_builder.py
 ├── reports/
 │   ├── relatorio_executivo.md
@@ -76,7 +76,7 @@ pip install pandas numpy matplotlib seaborn plotly kagglehub notebook
 
 Para leitura direta no GitHub, o projeto agora inclui um relatório separado em [reports/relatorio_executivo.md](./reports/relatorio_executivo.md), sem depender da abertura do notebook. Esse material já traz gráficos em SVG incorporados ao Markdown para facilitar a leitura online.
 
-O arquivo [gerar_relatorio_completo.py](./gerar_relatorio_completo.py) gera esse relatório e também exporta um resumo estruturado em [reports/dados_resumidos.json](./reports/dados_resumidos.json). O módulo [report_builder.py](./report_builder.py) continua sendo usado pela etapa final do notebook para montar um resumo executivo automatizado.
+O arquivo [relatorio_ecommerce_completo.py](./relatorio_ecommerce_completo.py) gera esse relatório e também exporta um resumo estruturado em [reports/dados_resumidos.json](./reports/dados_resumidos.json). O módulo [report_builder.py](./report_builder.py) continua sendo usado pela etapa final do notebook para montar um resumo executivo automatizado.
 
 ## Valor de portfólio
 

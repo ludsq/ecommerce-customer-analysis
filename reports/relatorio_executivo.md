@@ -141,4 +141,4 @@ Esta análise avaliou a jornada de compra de um e-commerce a partir de 758.884 e
 - `ecommerce_customer_analysis.ipynb`: notebook com a análise exploratória completa.
 - `reports/dados_resumidos.json`: resumo estruturado das métricas do relatório.
 - `reports/images/`: gráficos exportados para leitura direta no GitHub.
-- `gerar_relatorio_completo.py`: script para regenerar os arquivos desta seção.
+- `relatorio_ecommerce_completo.py`: script para regenerar os arquivos desta seção.
