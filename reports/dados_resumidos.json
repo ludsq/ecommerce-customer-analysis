@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "titulo": "Digital Marketing Analytics",
+    "subtitulo": "Relatório Executivo de Análise de E-commerce",
+    "autor": "Ludmilla Sousa Quirino",
+    "data_geracao": "24/04/2026"
+  },
+  "metricas": {
+    "receita_total": 307114.0,
+    "ticket_medio": 19.74,
+    "clientes_recorrentes_pct": 73.93,
+    "clientes_one_time_pct": 26.07,
+    "add_to_cart": 667282,
+    "purchases": 15555,
+    "taxa_conversao": 2.33,
+    "conversao_checkout": 35.1,
+    "conversao_compra": 17.0,
+    "total_clientes": 4066,
+    "total_eventos": 758884,
+    "total_produtos": 1381
+  },
+  "projecoes": {
+    "ganho_carrinho_abandonado": 228000,
+    "ganho_retencao": 418000,
+    "ganho_ticket_medio": 138000
+  }
+}

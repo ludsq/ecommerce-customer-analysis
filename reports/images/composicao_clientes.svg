@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420" role="img"><rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="40" y="42" font-size="24" font-weight="700" fill="#0f172a">Composição da Base de Clientes</text>
+<circle cx="180" cy="220" r="90" fill="none" stroke="#e2e8f0" stroke-width="34"/>
+<circle cx="180" cy="220" r="90" fill="none" stroke="#2a9d8f" stroke-width="34"
+    stroke-dasharray="418.1 565.5" stroke-linecap="butt"
+    transform="rotate(-90 180 220)"/>
+<circle cx="180" cy="220" r="90" fill="none" stroke="#e76f51" stroke-width="34"
+    stroke-dasharray="147.4 565.5" stroke-dashoffset="-418.1"
+    transform="rotate(-90 180 220)"/>
+<text x="145" y="226" font-size="24" font-weight="700" fill="#0f172a">100%</text>
+
+<rect x="360" y="145" width="18" height="18" rx="4" fill="#2a9d8f"/>
+<text x="390" y="159" font-size="17" fill="#334155">Recorrentes: 73.93%</text>
+<rect x="360" y="205" width="18" height="18" rx="4" fill="#e76f51"/>
+<text x="390" y="219" font-size="17" fill="#334155">One-time: 26.07%</text>
+<text x="360" y="290" font-size="15" fill="#64748b">A base mostra boa recorrência, mas ainda há espaço para reengajamento.</text>
+</svg>
