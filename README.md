@@ -1,4 +1,4 @@
-# Digital Marketing Analytics
+# E-commerce Customer Analysis
 
 Análise exploratória de dados de um e-commerce com foco em comportamento de compra, funil de conversão, sazonalidade, performance por categoria e segmentação de clientes.
 
